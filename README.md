@@ -1,6 +1,6 @@
 ## Hi there 👋 Bem Vindo(a) ao Meu Perfil!
 
-Eu sou o Miguel,Sou um Programador Front End,atualmente estou aprendendo e criando projetos com HTML,CSS e iniciando aprendizado de JavaScript e React.
+Eu sou o Miguel,Sou um Programador Front End,atualmente estou aprendendo e Desenvolvendo projetos com HTML,CSS e iniciando aprendizado de JavaScript e React.
 <br>
 <br>
 <a href="migueltrompet123@gmail.com"/>
