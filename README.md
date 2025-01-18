@@ -3,7 +3,7 @@
 Eu sou o Miguel,Sou um Programador Front End,atualmente estou aprendendo e Desenvolvendo projetos com HTML,CSS e iniciando aprendizado de JavaScript e React.
 <br>
 <br>
-<a href="migueltrompet123@gmail.com"/>
+<a href="migueltandu@gmail.com"/>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
   [![Miguel stats](https://github-readme-stats.vercel.app/api?username=migueltandu30)](https://github.com/anuraghazra/github-readme-stats)
